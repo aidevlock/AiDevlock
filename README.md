@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm John Patrick Lachama</h1>
 <h3 align="center">A passionate Software Engineer from Philippines.</h3>
-<img align="right" alt="coding width = "500" src= https://www.bilder-hochladen.net/files/j4qn-54-8f53.gif> ;
+<img align="right" alt="coding width = "200" src=https://imgs.search.brave.com/piYyPRTlKpQ68nWHbaKGirv4sYo6qjF_mz_efvzXMio/rs:fit:540:305:1/g:ce/aHR0cHM6Ly9wYTEu/bmFydmlpLmNvbS82/Nzk1LzAwN2FiODY1/YmZmYzkxYjk1NWYx/MzkwNmNlM2IxN2Rk/Njk1MDY3MTJfaHEu/Z2lm.gif> ;
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aidevlock&label=Profile%20views&color=0e75b6&style=flat" alt="aidevlock" /> </p>
 
 - 📫 How to reach me **aidevlock@gmail.com**
