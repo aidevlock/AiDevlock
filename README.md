@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm John Patrick Lachama</h1>
 <h3 align="center">A passionate Software Engineer from Philippines.</h3>
-<img align="right" alt="coding width = "200" src=https://imgs.search.brave.com/piYyPRTlKpQ68nWHbaKGirv4sYo6qjF_mz_efvzXMio/rs:fit:540:305:1/g:ce/aHR0cHM6Ly9wYTEu/bmFydmlpLmNvbS82/Nzk1LzAwN2FiODY1/YmZmYzkxYjk1NWYx/MzkwNmNlM2IxN2Rk/Njk1MDY3MTJfaHEu/Z2lm.gif> ;
+<img align="right" alt="coding width = "200" src= https://imgs.search.brave.com/2eZvn6ddboYKoK2ih_I2-D3RfdlkcOXTG3M4l04Ija4/rs:fit:640:200:1/g:ce/aHR0cHM6Ly9saDUu/Z29vZ2xldXNlcmNv/bnRlbnQuY29tL3By/b3h5L1JnbzdybG1w/Tlh0ZnhLcjJfTnE4/dnYwVDBMSTNjTHlU/TVhRbFZuT05qMlhS/M3hCeWl2MGVNaG1y/ZlVmS3AtWEUzNlYx/MFE3RHF6dFplVEF2/NFV2U3U5OFFiZDRZ/QnZURnBSYmRleUZn/TlVuNDVnRVFyMF84/WmN2Y3d6MWV2dz1z/MC1k> ;
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aidevlock&label=Profile%20views&color=0e75b6&style=flat" alt="aidevlock" /> </p>
 
 - 📫 How to reach me **aidevlock@gmail.com**
